@@ -1,0 +1,16 @@
+{
+  "type": "APLA",
+  "version": "0.91",
+  "description": "Simple document that generates speech",
+  "mainTemplate": {
+    "parameters": [
+      "payload"
+    ],
+    "items": [
+      {
+        "type": "Speech",
+        "content": "Hello from A.P.L.A."
+      }
+    ]
+  }
+}
